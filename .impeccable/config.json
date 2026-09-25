@@ -1,0 +1,107 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:45.184Z",
+        "reason": "Claude: remaining pairs are white text on black sections/cover photo and the outlined Hora Loca word; detector reads page bone"
+      },
+      {
+        "rule": "hero-eyebrow-chip",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:45.473Z",
+        "reason": "Claude: magazine section kicker is the editorial concept"
+      },
+      {
+        "rule": "broken-image",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:45.794Z",
+        "reason": "Claude: lightbox img gets src when opened"
+      },
+      {
+        "rule": "buried-raster",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:46.080Z",
+        "reason": "Claude: film grain overlay and the end-frame image that fades in after the video"
+      },
+      {
+        "rule": "all-caps-body",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:46.389Z",
+        "reason": "Claude: short magazine kickers and coverlines"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:46.700Z",
+        "reason": "Claude: hairline video frame hugging the clip by design"
+      },
+      {
+        "rule": "clipped-overflow-container",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:47.031Z",
+        "reason": "Claude: body lock during the cover gate; dark sections clip ticker/confetti on purpose"
+      },
+      {
+        "rule": "overused-font",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:47.341Z",
+        "reason": "Claude: Instrument Serif italic only for deck text next to Bodoni Moda"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:47.636Z",
+        "reason": "Claude: bone newsprint paper is the magazine concept"
+      },
+      {
+        "rule": "pulsing-dot",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:47.976Z",
+        "reason": "Claude: REC dot on the video is literal"
+      },
+      {
+        "rule": "marquee",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-25T01:40:48.292Z",
+        "reason": "Claude: news ticker and photobooth strip conveyor are editorial devices"
+      }
+    ]
+  }
+}
